@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = abccoin-qt
-macx:TARGET = "ABCCoin-Qt"
+macx:TARGET = "golddark-Qt"
 VERSION = 0.9.0
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
